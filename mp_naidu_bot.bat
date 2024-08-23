@@ -1,1 +1,0 @@
-C:\Users\Lenovo\PycharmProjects\mp_naidu_bot\.venv\Scripts\python.exe C:\Users\Lenovo\PycharmProjects\mp_naidu_bot\main.py
